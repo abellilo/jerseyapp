@@ -12,11 +12,11 @@ class CartModel extends ChangeNotifier{
     ["Chelsea Away Kit","140.4","lib/images/chelsea_away_jersey.png", Colors.purple,"4.75"],
     ["Manchester City Home Kit","178.0","lib/images/mancity_home_jersey.png", Colors.blue,"4.95"],
     ["Manchester City Away Kit","240.4","lib/images/mancity_away_jersey.png", Colors.brown,"4.82"],
-    ["Arsenal Home Kit","167.7","lib/images/arsenal.jpeg", Colors.red,"4.87"],
-    ["Arsenal Away Kit","185.4","lib/images/arsenal_away_jersey.jpeg", Colors.yellow,"4.92"],
-    ["Arsenal Third Kit","185.0","lib/images/arsenal_third_jersey.jpeg", Colors.green,"4.92"],
-    ["Liverpool Home Kit","285.2","lib/images/liverpool_home_jersey.jpg", Colors.red,"4.95"],
-    ["Liverpool Away Kit","239.5","lib/images/liverpool_away_jersey.jpg", Colors.green,"4.75"],
+    ["Arsenal Home Kit","167.7","lib/images/arsenal.png", Colors.red,"4.87"],
+    ["Arsenal Away Kit","185.4","lib/images/arsenal_away_jersey.png", Colors.yellow,"4.92"],
+    ["Arsenal Third Kit","185.0","lib/images/arsenal_third_jersey.png", Colors.green,"4.92"],
+    ["Liverpool Home Kit","285.2","lib/images/liverpool_home_jersey.png", Colors.red,"4.95"],
+    ["Liverpool Away Kit","239.5","lib/images/liverpool_away_jersey.png", Colors.green,"4.75"],
   ];
 
   //cart list item

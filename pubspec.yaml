@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts:
   provider:
+  proste_bezier_curve: ^2.0.2
+  page_transition: ^2.0.9
 
 dev_dependencies:
   flutter_test:
